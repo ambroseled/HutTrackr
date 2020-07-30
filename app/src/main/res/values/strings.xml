@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HutTrackr</string>
+    <string name="huts">Huts</string>
+    <string name="tracks">Tracks</string>
+    <string name="saved">Saved</string>
+    <string name="visited">Visited</string>
+</resources>
